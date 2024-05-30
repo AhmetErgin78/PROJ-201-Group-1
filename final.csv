@@ -1,0 +1,101 @@
+country,region,average_iq_region,average_life_expectancy_region,average_gdp_region
+Algeria,Rest Africa,68.19,64.11,1831.17
+Angola,Rest Africa,68.19,64.11,1831.17
+Argentina,South American,83.86,75.73,8607.27
+Australia,Australian,99.24,83.0,58900.0
+Austria,Deutschland,99.45,82.23,59000.0
+Bangladesh,Indian Subcontinent,68.39,70.4,1502.5
+Belarus,Eastern European,94.19,75.53,9736.67
+Belgium,Belgian,99.12,81.6,45750.0
+Benin,Rest Africa,68.19,64.11,1831.17
+Bolivia,South American,83.86,75.73,8607.27
+Botswana,Rest Africa,68.19,64.11,1831.17
+Brazil,South American,83.86,75.73,8607.27
+Bulgaria,Eastern European,94.19,75.53,9736.67
+Burkina Faso,Rest Africa,68.19,64.11,1831.17
+Burundi,Rest Africa,68.19,64.11,1831.17
+Cameroon,Rest Africa,68.19,64.11,1831.17
+Canada,Canadian,99.52,82.2,45100.0
+Central African Republic,Rest Africa,68.19,64.11,1831.17
+Chad,Rest Africa,68.19,64.11,1831.17
+Chile,South American,83.86,75.73,8607.27
+China,Chinese and Mongolian,97.56,72.75,7295.0
+Colombia,South American,83.86,75.73,8607.27
+Costa Rica,Central American,66.07,74.9,6470.0
+Cuba,Caribbean,80.36,72.63,4913.33
+Denmark,Scandinavian,98.28,82.04,58120.0
+Djibouti,Rest Africa,68.19,64.11,1831.17
+Ecuador,South American,83.86,75.73,8607.27
+Egypt,Middle Eastern,81.7,76.36,22651.0
+Ethiopia,Rest Africa,68.19,64.11,1831.17
+Finland,Scandinavian,98.28,82.04,58120.0
+France,French,96.69,82.5,38800.0
+Gabon,Rest Africa,68.19,64.11,1831.17
+Germany,Deutschland,99.45,82.23,59000.0
+Ghana,Rest Africa,68.19,64.11,1831.17
+Greece,Greek,90.77,81.1,19000.0
+Guatemala,Central American,66.07,74.9,6470.0
+Guinea,Rest Africa,68.19,64.11,1831.17
+Guyana,South American,83.86,75.73,8607.27
+Haiti,Caribbean,80.36,72.63,4913.33
+Honduras,Central American,66.07,74.9,6470.0
+Hungary,Eastern European,94.19,75.53,9736.67
+Iceland,Scandinavian,98.28,82.04,58120.0
+India,Indian Subcontinent,68.39,70.4,1502.5
+Indonesia,Southeast Asian,83.04,73.0,7495.0
+Iraq,Middle Eastern,81.7,76.36,22651.0
+Ireland,Irish,95.13,81.8,75200.0
+Israel,Middle Eastern,81.7,76.36,22651.0
+Italy,Italian,94.23,83.0,32100.0
+Jamaica,Caribbean,80.36,72.63,4913.33
+Japan,Japanese,106.48,84.3,36100.0
+Jordan,Middle Eastern,81.7,76.36,22651.0
+Kenya,Rest Africa,68.19,64.11,1831.17
+Kuwait,Middle Eastern,81.7,76.36,22651.0
+Lebanon,Middle Eastern,81.7,76.36,22651.0
+Lesotho,Rest Africa,68.19,64.11,1831.17
+Liberia,Rest Africa,68.19,64.11,1831.17
+Libya,Northern Africa,73.97,74.4,6320.0
+Madagascar,Rest Africa,68.19,64.11,1831.17
+Malawi,Rest Africa,68.19,64.11,1831.17
+Malaysia,Southeast Asian,83.04,73.0,7495.0
+Mali,Rest Africa,68.19,64.11,1831.17
+Mauritania,Rest Africa,68.19,64.11,1831.17
+Mexico,Mexican,87.73,76.0,10000.0
+Mongolia,Chinese and Mongolian,97.56,72.75,7295.0
+Morocco,Northern Africa,73.97,74.4,6320.0
+Mozambique,Rest Africa,68.19,64.11,1831.17
+Namibia,Rest Africa,68.19,64.11,1831.17
+Nepal,Indian Subcontinent,68.39,70.4,1502.5
+Netherlands,Belgian,99.12,81.6,45750.0
+Niger,Rest Africa,68.19,64.11,1831.17
+Nigeria,Rest Africa,68.19,64.11,1831.17
+Norway,Scandinavian,98.28,82.04,58120.0
+Oman,Middle Eastern,81.7,76.36,22651.0
+Pakistan,Indian Subcontinent,68.39,70.4,1502.5
+Paraguay,South American,83.86,75.73,8607.27
+Peru,South American,83.86,75.73,8607.27
+Poland,Eastern European,94.19,75.53,9736.67
+Portugal,Spanish and Portuguese,93.34,82.4,24850.0
+Qatar,Middle Eastern,81.7,76.36,22651.0
+Romania,Eastern European,94.19,75.53,9736.67
+Rwanda,Rest Africa,68.19,64.11,1831.17
+Saudi Arabia,Middle Eastern,81.7,76.36,22651.0
+Senegal,Rest Africa,68.19,64.11,1831.17
+Sierra Leone,Rest Africa,68.19,64.11,1831.17
+Somalia,Rest Africa,68.19,64.11,1831.17
+South Africa,Rest Africa,68.19,64.11,1831.17
+Spain,Spanish and Portuguese,93.34,82.4,24850.0
+Sudan,Rest Africa,68.19,64.11,1831.17
+Suriname,South American,83.86,75.73,8607.27
+Sweden,Scandinavian,98.28,82.04,58120.0
+Switzerland,Deutschland,99.45,82.23,59000.0
+Thailand,Thai,88.87,77.7,6460.0
+Togo,Rest Africa,68.19,64.11,1831.17
+Tunisia,Rest Africa,68.19,64.11,1831.17
+Uganda,Rest Africa,68.19,64.11,1831.17
+Ukraine,Eastern European,94.19,75.53,9736.67
+United Arab Emirates,Middle Eastern,81.7,76.36,22651.0
+Uruguay,South American,83.86,75.73,8607.27
+Zambia,Rest Africa,68.19,64.11,1831.17
+Zimbabwe,Rest Africa,68.19,64.11,1831.17
